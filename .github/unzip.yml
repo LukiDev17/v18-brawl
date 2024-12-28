@@ -13,4 +13,4 @@ jobs:
       run: sudo apt-get install -y unzip
 
     - name: Unzip file
-      run: unzip path/to/your/file.zip -d path/to/destination
+      run: unzip v18/v18 brawl.zip -d path/to/destination
